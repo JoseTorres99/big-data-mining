@@ -1,0 +1,7 @@
+
+# ignore virtual environments
+.venv/
+venv/
+
+# ignore big datasets
+*.tsv.gz
